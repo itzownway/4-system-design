@@ -2,7 +2,7 @@
 DS and Algorithm
 
 
-## Datastructure
+## DataStructure
 <details>
 	
 1)Introduction
