@@ -932,14 +932,11 @@ PROGRAM ON ARRAY
 
 
 
-Competitive Platforms
----------------------
+### Competitive Platforms
 
 <details>
-	- HackerRank
-        - LeetCode
-	- CodeForce
-
+        LeetCode  :- https://leetcode.com/u/wjocJEeE0A/
+	
 </details>
 
 
