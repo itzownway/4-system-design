@@ -1,5 +1,5 @@
 # datastructure-&-algorithms
-DS and Algorithm
+DSA and Algorithm
 
 
 ## DataStructure GFG
