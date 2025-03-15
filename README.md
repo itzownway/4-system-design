@@ -2,7 +2,7 @@
 DS and Algorithm
 
 
-## DataStructure
+## DataStructure GFG
 <details>
 	
 1)Introduction
