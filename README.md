@@ -552,8 +552,8 @@ DSA and Algorithm
 </details>
 
 
-PROGRAM ON NUMBER
------------------
+### PROGRAM ON NUMBER
+
 <details>
 	
        - prime number
@@ -582,8 +582,8 @@ PROGRAM ON NUMBER
 
 
 
-PROGRAM ON PATTERN
-------------------
+### PROGRAM ON PATTERN
+
 <details>
                                                    
 				Print these patterns using loops:
@@ -855,16 +855,8 @@ PROGRAM ON PATTERN
 
 </details>
 
-PROGRAM ON RECURSION
---------------------
-<details>
-     
-</details>
+### PROGRAM ON STRING
 
-
-
-PROGRAM ON STRING
------------------
 <details>
 	
     - Reverse the characters in a string.
@@ -901,8 +893,8 @@ PROGRAM ON STRING
 </details>
 
 
-PROGRAM ON ARRAY
-----------------
+### PROGRAM ON ARRAY
+
 <details>
 	
 	- Array Sum: Program that calculates the sum of elements in an array.
