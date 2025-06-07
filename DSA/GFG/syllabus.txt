@@ -1,0 +1,33 @@
+
+DataStructue
+=============
+
+   1- DSA - What, Why and How ?
+   2- Analysis of Algorithm
+   3- Mathematics 
+   4- Bit Magic 
+   5- Recursion
+   6- Arrays
+   7- Searching 
+   8- Sorting 
+   9- Matrix
+   10- Hasing
+   11- Strings
+   12- Linked List
+   13- Stack
+   14- Queue
+   15- Dequeue
+   16- Tree
+   17- Binary Search Tree
+   18- Heap
+   19- Graph
+   20- Greedy
+   21- Backtracking 
+   22- Dynamic Programming
+   23- Trie
+   24- Segment and Binary Indexed Trees
+   25- Dis-Joint Set 
+
+
+
+

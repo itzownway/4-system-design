@@ -1,0 +1,43 @@
+Basic
+=======
+
+ - Lanuguages Basic
+ - Logic Bulding 
+ - Patterns 
+ - Time Complexity 
+ - STL and Collection
+ - Concept Basic
+ - Basic Maths 
+ - Basic Arrays
+ - Basic Hasing 
+ - Basic Strings 
+ - Basic Recursion
+
+
+
+ Advance
+ =========
+
+    - Sorting
+    - Arrays
+    - Hasing
+    - Binary Search
+    - Recursion
+    - Linked-List
+    - Bit Manipulation 
+    - Greedy Algorithm
+    - Sliding Window 
+    - Stack 
+    - Queue
+    - Binary Trees
+    - Binary Search Trees
+    - Heaps 
+    - Graphes 
+    - Dynamic Programming 
+    - Tries
+    - Strings 
+    - Maths
+
+
+
+

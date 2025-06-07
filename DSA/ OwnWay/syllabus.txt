@@ -1,0 +1,41 @@
+DataStructue and Algorithm
+===========================
+
+Basic
+---------
+1  -  DSA - What , Why and How ? 
+2  -  Language Basic
+3  -  Concept Basic
+4  -  Logic Bulding
+5  -  Time Complexity and Space Complexity
+6  -  Mathematics
+7  -  Bit Magic
+8  -  Numbers 
+9  -  Patterns
+10 -  Strings 
+11 -  Recursion
+12 -  Arrays
+13 -  Linked List
+14 -  Stack
+15 -  Queue
+16 -  Dequeue
+
+
+Advance
+----------
+
+17  -  Searching
+18  -  Sorting 
+19  -  Matrix
+20  -  Hashing
+21  -  Trees
+22  -  Binary Search Tree
+23  -  Heaps
+24  -  Graphes
+25  -  Greedy Algorithm
+26  -  Backtracking
+27  -  Dynamic Programming
+28  -  Tries
+29  -  Segment and Binary Indexed Trees
+30  -  Dis-Joint Set 
+
